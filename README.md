@@ -1,4 +1,4 @@
-<img src="hello-gif-1.gif" width='40' align='left'/><h2>Hello everyone, my name is Alexandr</h2>
+<img alt="Desert71_Hi" src="hello-gif-1.gif" vspace='50' width='60' align='left'/><h2>Hello everyone, my name is Alexandr</h2>
 
 <!--
 **desert71/Desert71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

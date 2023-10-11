@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="hello-gif-1.gif"> Hi there 👋
 
 <!--
 **desert71/Desert71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

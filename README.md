@@ -24,12 +24,13 @@
 ![](https://img.shields.io/badge/VIM-05122A?style=for-the-badge&logo=VIM&color=c7c48d)
 
 
-## 📊&nbsp; GitHub Analytics
+## 📊 &nbsp; GitHub Analytics
+
 <p align="center">
-<a href="https://github.com/desert71">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=desert71&layout=compact&bg_color=c7c48d&theme=defaul&tlangs_count=8"/> &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=desert71&bg_color=c7c48d&show_icons=true&include_all_commits=true"/>
-</a>
+  <a href="https://github.com/desert71">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=desert71&layout=compact&bg_color=c7c48d&theme=defaul&tlangs_count=8"/> &nbsp;
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=desert71&bg_color=c7c48d&show_icons=true&include_all_commits=true"/>
+  </a>
 </p>
 
 

@@ -6,9 +6,10 @@
 🔐&nbsp; Work in information security.\
 👨‍🏫&nbsp; I am interested and going to learn more web development, system design, cloud architecture.\
 🌍&nbsp; One day I want to change the world for the better with my app.\
-📧&nbsp; For any questions, you can write to me at amkazennov99@gmail.com or Telegram https://t.me/A_Deserdzhio.
+📧&nbsp; For any questions, you can write to me at [email](amkazennov99@gmail.com) or [Telegram](https://t.me/A_Deserdzhio).
 
 ## ⚙️&nbsp; Tech Stack
+
 <!--.
 **desert71/Desert71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

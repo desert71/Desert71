@@ -1,8 +1,15 @@
 
-<img alt="Desert71_Hi" src="hello-gif-1.gif" width='60' align='left'/><h2>&nbsp;Hello everyone, my name is Alexandr</h2>
+<img alt="Desert71_Hi" src="hello-gif-1.gif" width='60' align='left'/><h1>&nbsp;Hello everyone, my name is Alexandr</h1>
 
-### &nbsp;About me
-<!--
+## 👨‍💻&nbsp; About me
+👱‍♂️&nbsp; I am 24 y.o.\
+🔐&nbsp; Work in information security.\
+👨‍🏫&nbsp; I am interested and going to learn more web development, system design, cloud architecture.\
+🌍&nbsp; One day I want to change the world for the better with my app.\
+📧&nbsp; For any questions, you can write to me at amkazennov99@gmail.com or Telegram tlgg.ru/A_Deserdzhio .
+
+## ⚙️&nbsp; Tech Stack
+<!--.
 **desert71/Desert71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

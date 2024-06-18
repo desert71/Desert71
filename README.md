@@ -2,7 +2,7 @@
 <img alt="Desert71_Hi" src="hello-gif-1.gif" width='60' align='left'/><h1>&nbsp;Hello everyone, my name is Alexandr</h1>
 
 ## 👨‍💻&nbsp; About me
-👱‍♂️&nbsp; I am 24 y.o.\
+👱‍♂️&nbsp; I am 25 y.o.\
 🔐&nbsp; Work in QA-automation.\
 👨‍🏫&nbsp; I am interested and going to learn more web development, system design, cloud architecture.\
 🌍&nbsp; One day I want to change the world for the better with my app.\

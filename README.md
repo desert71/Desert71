@@ -3,7 +3,7 @@
 
 ## 👨‍💻&nbsp; About me
 👱‍♂️&nbsp; I am 24 y.o.\
-🔐&nbsp; Work in information security.\
+🔐&nbsp; Work in QA-automation.\
 👨‍🏫&nbsp; I am interested and going to learn more web development, system design, cloud architecture.\
 🌍&nbsp; One day I want to change the world for the better with my app.\
 📧&nbsp; For any questions, you can write to me at amkazennov99@gmail.com or [Telegram](https://t.me/A_Deserdzhio).
